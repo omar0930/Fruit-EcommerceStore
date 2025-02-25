@@ -64,7 +64,7 @@ This is a **fully functional e-commerce store** built using **Laravel 10**. It i
 ## **⚙️ Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/omar0930/your-repo-name.git
+git clone https://github.com/omar0930/Fruit-EcommerceStore.git
 cd your-repo-name
 ```
 
