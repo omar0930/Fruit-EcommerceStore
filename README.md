@@ -1,3 +1,6 @@
+⚠️ Important Notice
+This branch (main) contains only the README and the database file. To access the full project, please switch to the master branch.
+
 # **E-Commerce Store (Laravel 10)**
 
 ## **📌 Overview**
