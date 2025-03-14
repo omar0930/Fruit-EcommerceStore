@@ -9,13 +9,13 @@ This is a **fully functional e-commerce store** built using **Laravel 10**. It i
 
 ## **🚀 Features**
 ### **🛍️ User Features:**
-- **User Authentication:** Register, Login, Profile, Logout
-- **Product Catalog:** View products, categories, and details
-- **Shopping Cart:** Add, remove, update quantity
-- **Wishlist:** Save products for later
-- **Reviews & Ratings:** Leave reviews and rate products
-- **Order History:** View past orders
-- **Checkout System:** Secure order processing
+- **User Authentication:** Register, Login, Profile, Logout.
+- **Product Catalog:** View products, categories, and details.
+- **Shopping Cart:** Add, remove, update quantity.
+- **Wishlist:** Save products for later.
+- **Reviews & Ratings:** Leave reviews and rate products.
+- **Order History:** View past orders.
+- **Checkout System:** Secure order processing.
 
 ### **🔑 Admin Features (Future Enhancements)**
 - **Product & Category Management**
